@@ -1,2 +1,0 @@
-# SeekerTales
-Project ขายฝัน
